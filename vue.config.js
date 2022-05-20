@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/Platzi-Exchange/',
-  }
+  publicPath: '/Platzi-Exchange/',
+}

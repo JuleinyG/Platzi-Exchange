@@ -8,7 +8,7 @@
             :to="{ name: 'home' }"
             class="font-semibold text-xl tracking-light"
           >
-            Plazti Exchange
+            Platzi Exchange
           </router-link>
         </div>
         <div
